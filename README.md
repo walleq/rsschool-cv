@@ -1,1 +1,1 @@
-# rsschool-cv
+# rsschool-cv https://walleq.github.io/rsschool-cv/cv
