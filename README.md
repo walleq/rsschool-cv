@@ -1,1 +1,1 @@
-https://walleq.github.io/rsschool-cv/cv
+https://walleq.github.io/rsschool-cv/
